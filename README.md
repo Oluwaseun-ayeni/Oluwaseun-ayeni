@@ -1,4 +1,4 @@
-### Hi I am Oluwaseun Ayeni, A Software Engineer👋
+### Hi! I am Oluwaseun Ayeni, A Software Engineer👋
 
 <div align="">
 <div id="header" align="center">
