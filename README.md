@@ -46,3 +46,10 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEc_yYCT99Dnpaprgy1xWXbL6Z8oxirOIm9B2Thbx5J9-_pieqtNxsQKoeRU3UkggToCI&usqp=CAU" width=30 >
             
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx3wRgiCbcUzd9XXH3EL4rHE5JMEgQBO3nqwxF5-P-IRSjSDvEz1vFfIraAVwZfkCftvE&usqp=CAU" width=30 >
+  
+### **🔥Stats:**
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stormcryp&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stormcryp&theme=radical&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## <br>
