@@ -1,6 +1,8 @@
 ### Hi I am Oluwaseun Ayeni, A Software Engineer👋
 
-<!--
+![profile](https://user-images.githubusercontent.com/78281232/186422263-819e853a-95ef-48a1-b45b-d40de45fb7ce.png)
+
+
 
 
 Here are some ideas to get you started:
@@ -13,4 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![1822899](https://user-images.githubusercontent.com/78281232/186423726-fe174c1b-9ac0-4482-9cc2-d4d0ce172837.png)
+![226777](https://user-images.githubusercontent.com/78281232/186424051-180ffa35-abf8-4dc4-85c8-28d149cb756d.png)
+![5968292](https://user-images.githubusercontent.com/78281232/186424064-afd265b4-c755-4699-a578-50782877412f.png)
