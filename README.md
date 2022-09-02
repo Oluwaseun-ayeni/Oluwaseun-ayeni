@@ -10,7 +10,9 @@
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/ayeni-oluwaseun-7080501b7/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 <!--     <a href=""><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" /></a> -->
+<img src="https://komarev.com/ghpvc/?username=KOLEAJEOLAYINKA&style=flat-square&color=blue" alt=""/>
 </div>
+
 
 
 <br>
