@@ -26,7 +26,7 @@
 ### **- 💬About me:**
   <br>
   
-**I am a disciplined and well trained software engineer that dedicate my time to problem solving and getting good at what i do everyday, I'm always open minded and eager to learn new things and participate in open source**
+**I am a disciplined and well trained software engineer that dedicate my time to problem solving and getting good at what i do everyday, I'm always open minded and eager to learn new things.*
   <br>
   
 ### **- 📫 How to reach me:**
