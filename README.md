@@ -51,7 +51,7 @@
   
 ### **🔥Stats:**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oluwaseun-ayeni&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+--> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oluwaseun-ayeni&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwaseun-ayeni&theme=radical&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Oluwaseun-ayeni&theme=highcontrast&show_icons=true&count_private=true)
